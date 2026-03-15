@@ -1,3 +1,0 @@
-[     409ms] [ERROR] Failed to load resource: the server responded with a status of 405 () @ https://www.amazon.com/suggestions:0
-[     735ms] [ERROR] Failed to load resource: net::ERR_TRUST_TOKEN_OPERATION_FAILED @ https://www.amazon.com/tt/i:0
-[    2695ms] [ERROR] Failed to load resource: the server responded with a status of 429 (Too Many Requests) @ https://unagi-na.amazon.com/1/events/com.amazon.BotCXPolicy.na.prod.bd:0
