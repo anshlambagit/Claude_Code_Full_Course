@@ -3,7 +3,7 @@
 Welcome to your Claude Code learning project! This tutorial teaches you how Claude Code works and how to harness its power using the `.claude` folder. Whether you're new to AI-assisted development or looking to master Claude Code, start here!
 
 ### Watch The Full Tutorial On YOUTUBE
-- 
+- https://youtu.be/lkc-F5I8gFE?si=MFLyX0RVkcHrM2nr
 
 ---
 
